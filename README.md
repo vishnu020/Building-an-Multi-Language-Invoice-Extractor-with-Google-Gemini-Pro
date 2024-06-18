@@ -1,10 +1,11 @@
 # Building-an-Multi-Language-Invoice-Extractor-with-Google-Gemini-Pro
 
 
-#Overview
+# Overview:
+
 The Multi-Language Invoice Extractor is a powerful tool that leverages Google Gemini Pro Free LLM to extract relevant information from invoices written in various languages. This project aims to streamline the process of invoice processing by automatically identifying and extracting key data fields such as invoice number, date, total amount, vendor details, and more.
 
-#Features
+# Features
 
 1.Multi-Language Support: Capable of extracting information from invoices in multiple languages.
 
